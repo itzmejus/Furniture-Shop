@@ -1,0 +1,44 @@
+.list{
+    background-color: rgb(235, 235, 226);
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.singleCard{
+    height: 400px;
+    background-color: rgb(216, 214, 202);
+    width: 330px;
+    padding: 10px;
+    margin-left: 20px;
+    justify-content: center;
+    display: grid;
+    text-align: center;
+    margin: 10px;
+    
+}
+.singleCard  img{
+    height: 500px;
+    margin-top: -129px
+    
+}
+.singleCard h2
+{
+    margin-top: -125px;
+}
+.singleCard button
+{
+    
+    height: 37px;
+    width: 250px; 
+    margin-top: -50px;
+    margin-left: 85px;
+    background-color:rgb(142, 182, 206);
+    border: none;
+    border-radius: 10px;
+    font-size: larger;
+  
+}
+.singleCard button:hover{
+        cursor: pointer;
+    }
+    

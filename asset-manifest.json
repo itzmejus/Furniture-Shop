@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Furniture-Shop/static/css/main.0a8fd60c.css",
+    "main.js": "/Furniture-Shop/static/js/main.3b82f4c9.js",
+    "static/media/slider-1.png": "/Furniture-Shop/static/media/slider-1.171cb1c2e9356637def4.png",
+    "static/media/redchair.png": "/Furniture-Shop/static/media/redchair.a3fcc9df7f0ed34a4cc0.png",
+    "static/media/sofa.png": "/Furniture-Shop/static/media/sofa.77f1b028046740221613.png",
+    "static/media/chair4.png": "/Furniture-Shop/static/media/chair4.291e51b7422967c761d3.png",
+    "static/media/chair6.png": "/Furniture-Shop/static/media/chair6.b9019ca40eb63de75b2c.png",
+    "static/media/pillow.png": "/Furniture-Shop/static/media/pillow.8903cde39444d58b9b33.png",
+    "static/media/chair5.png": "/Furniture-Shop/static/media/chair5.e5f20dd428fda8683781.png",
+    "static/media/2chair.png": "/Furniture-Shop/static/media/2chair.ae5a2079ae3a82b83393.png",
+    "index.html": "/Furniture-Shop/index.html",
+    "main.0a8fd60c.css.map": "/Furniture-Shop/static/css/main.0a8fd60c.css.map",
+    "main.3b82f4c9.js.map": "/Furniture-Shop/static/js/main.3b82f4c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a8fd60c.css",
+    "static/js/main.3b82f4c9.js"
+  ]
+}

@@ -1,4 +1,4 @@
-Live : https://itzmejus.github.io/
+Live : https://itzmejus.github.io/Furniture-Shop/
 
 
 Pages available
